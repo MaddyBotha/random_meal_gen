@@ -17,6 +17,7 @@ getMeal.addEventListener("click", () => {
   })
 });
 
+
 // let's create the function createMeal from above so that we can make use of it
 // we will use a for loop to loop over the the ingredients in the meal and add an if statement so that if the ingredients add up we add it, otherwise we disgard it
 const createMeal = meal => {
